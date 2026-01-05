@@ -61,15 +61,6 @@ I enjoy understanding **how systems work internally** — how data flows, how co
 
 ---
 
-## 🚀 Featured Project
-### **Real Time Monocular Vision Pipeline**
-A real-time video processing system built using a modular pipeline architecture.  
-The project focuses on clean system design, real-time performance, and extensibility, and reflects how vision-based monitoring and security systems are structured in real-world environments.
-
-👉 *Project link*
-
----
-
 ## 🌱 Currently Learning
 - Defensive cybersecurity fundamentals  
 - Cloud and infrastructure basics  
@@ -94,11 +85,8 @@ The project focuses on clean system design, real-time performance, and extensibi
 
 Thanks for stopping by 🙂
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?
-  username=YOUR_USERNAME&
+  username=rahulji0805&
   show_icons=true&
   theme=tokyonight" />
 </p>
