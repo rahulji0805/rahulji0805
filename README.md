@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&
-  size=22&
-  pause=1000&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=500&
-  lines=Cybersecurity+Enthusiast;
-  System+Design+Learner;
-  Real-Time+Systems+Explorer" />
-</p>
-
 # Hi, I’m Rahul 👋
 
 I’m an engineering student with a strong interest in **Cybersecurity, system design, and real-time systems**.
@@ -84,9 +70,3 @@ I enjoy understanding **how systems work internally** — how data flows, how co
 ---
 
 Thanks for stopping by 🙂
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-  username=rahulji0805&
-  show_icons=true&
-  theme=tokyonight" />
-</p>
