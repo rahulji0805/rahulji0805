@@ -1,72 +1,55 @@
-# Hi, I’m Rahul 👋
+<div align="center">
+  <h1>Rahul Bhukal</h1>
+  <p><em>AI Systems · Computer Vision · Edge Intelligence</em></p>
 
-I’m an engineering student with a strong interest in **Cybersecurity, system design, and real-time systems**.
-
-I enjoy understanding **how systems work internally** — how data flows, how components interact, and how design decisions affect performance and reliability. I prefer building things from the ground up and learning through hands-on projects.
-
----
-
-## 🔍 Interests
-- Cybersecurity & security engineering  
-- System design and architecture  
-- Real-time systems and monitoring pipelines  
-- Vision-based monitoring and security use cases  
-- Practical, system-level engineering  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhukalrahul9745@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-bhukal)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahulji0805)
+</div>
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Programming
-- Python  
-- SQL  
-- C / C++  
-- HTML / CSS  
-
-### ☁️ Cloud & Security
-- AWS (EC2, IAM, Security Groups)  
-- Cloud Security Fundamentals  
-- Defense-in-Depth  
-
-### 🔐 Security Practices
-- Principle of Least Privilege (PoLP)  
-- Network Security  
-- Monitoring & Logging  
-
-### ⚙️ Systems & Engineering
-- Real-time systems  
-- Modular pipeline architecture  
-- System design & system-level thinking  
-- Performance-aware engineering  
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- Linux (basic)  
-- VS Code  
-- OpenCV  
+I build systems that see — real-time detection pipelines, vision-based monitoring, and AI that runs at the edge, not just in the cloud. ECE undergrad at DCRUST Murthal, first year.
 
 ---
 
-## 🌱 Currently Learning
-- Defensive cybersecurity fundamentals  
-- Cloud and infrastructure basics  
-- Designing scalable and maintainable systems  
+## Tech Stack
+
+**Vision & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data & ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Systems & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
-## 🧠 How I Like to Work
-- Understand the problem before choosing tools  
-- Keep designs simple and readable  
-- Focus on fundamentals and long-term learning  
-- Improve through consistent building  
+## Currently exploring
+
+Edge deployment and embedded inference — shrinking models that actually survive real hardware. Less notebook, more production.
 
 ---
 
-## 📌 Philosophy
-> Build with clarity.  
-> Learn with purpose.  
-> Grow step by step.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulji0805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
+
+</div>
 
 ---
 
-Thanks for stopping by 🙂
+<div align="center">
+<sub>Understand the system before you optimize it. Build things that actually run.</sub>
+</div>
