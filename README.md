@@ -57,15 +57,8 @@ Edge deployment and embedded inference — shrinking models that actually surviv
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rahulji0805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulji0805&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
----
 
 <div align="center">
   <sub><i>Understand the system before you optimize it. Build things that actually run.</i></sub>
 </div>
+---
