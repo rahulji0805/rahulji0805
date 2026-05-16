@@ -61,4 +61,4 @@ Edge deployment and embedded inference - shrinking models that actually survive 
 <div align="center">
   <sub><i><b>Understand the system before you optimize it. Build things that actually run.</b></i></sub>
 </div>
----
+
