@@ -12,7 +12,7 @@
 
 ---
 
-I build systems that see — real-time detection pipelines, vision-based monitoring, and AI that runs at the edge, not just in the cloud. ECE undergrad at DCRUST Murthal.
+I build systems that see real-time detection pipelines, vision-based monitoring, and AI that runs at the edge, not just in the cloud. ECE undergrad at DCRUST Murthal.
 
 ---
 
@@ -53,12 +53,12 @@ I build systems that see — real-time detection pipelines, vision-based monitor
 
 ## 📡 Currently Exploring
 
-Edge deployment and embedded inference — shrinking models that actually survive real hardware. Less notebook, more production.
+Edge deployment and embedded inference - shrinking models that actually survive real hardware. Less notebook, more production.
 
 ---
 
 
 <div align="center">
-  <sub><i>Understand the system before you optimize it. Build things that actually run.</i></sub>
+  <sub><i><b>Understand the system before you optimize it. Build things that actually run.</b></i></sub>
 </div>
 ---
