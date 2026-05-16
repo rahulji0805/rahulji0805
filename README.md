@@ -12,7 +12,7 @@
 
 ---
 
-I build systems that see — real-time detection pipelines, vision-based monitoring, and AI that runs at the edge, not just in the cloud. ECE undergrad at DCRUST Murthal, first year.
+I build systems that see — real-time detection pipelines, vision-based monitoring, and AI that runs at the edge, not just in the cloud. ECE undergrad at DCRUST Murthal.
 
 ---
 
