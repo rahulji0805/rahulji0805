@@ -29,20 +29,6 @@ I build systems that see: real-time detection pipelines, vision-based monitoring
                                      rahul@gpu:~$ ./status
                                      > open to remote research internships
 ```
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **CUDA Ray Tracer** | Python/numba ray tracer ported to native CUDA C++. **988x** kernel-only speedup at 4K, live Win32 demo at 370+ FPS | `CUDA C++` `nvcc` |
-| **[MoonVision AI](https://github.com/rahulji0805/MoonVision-AI)** | YOLOv8 intrusion detection: restricted zones, alarm, auto-screenshots, live dashboard | `YOLOv8` `React` `Socket.IO` `SQLite` |
-| **SadakSaathi** | Road-damage detection for smart infrastructure. Pothole model at **mAP50 0.82**, exported to TFLite for on-device Android | `YOLOv8` `TFLite` `Firebase` |
-| **PlasmaX** *(in progress)* | CUDA-accelerated Particle-in-Cell plasma simulator | `CUDA` `OpenMP` `cuFFT` |
-
----
-
 ## 🛠 Tech Stack
 
 <table>
@@ -85,6 +71,18 @@ I build systems that see: real-time detection pipelines, vision-based monitoring
     </td>
   </tr>
 </table>
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **CUDA Ray Tracer** | Python/numba ray tracer ported to native CUDA C++. **988x** kernel-only speedup at 4K, live Win32 demo at 370+ FPS | `CUDA C++` `nvcc` |
+| **[MoonVision AI](https://github.com/rahulji0805/MoonVision-AI)** | YOLOv8 intrusion detection: restricted zones, alarm, auto-screenshots, live dashboard | `YOLOv8` `React` `Socket.IO` `SQLite` |
+| **SadakSaathi** | Road-damage detection for smart infrastructure. Pothole model at **mAP50 0.82**, exported to TFLite for on-device Android | `YOLOv8` `TFLite` `Firebase` |
+| **PlasmaX** *(in progress)* | CUDA-accelerated Particle-in-Cell plasma simulator | `CUDA` `OpenMP` `cuFFT` |
 
 ---
 
